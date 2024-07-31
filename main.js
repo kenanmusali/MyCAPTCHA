@@ -7,11 +7,11 @@ let generating = false;
 
 
 const captchaData = [
-  { name: 'morning route', url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8fNNytWbWOc8ATCWLr7YrQrDLtcM7B5MUPw&s' },
-  { name: 'hello sus', url: 'https://www.wikihow.com/images/thumb/6/60/Use-Google-Step-31-Version-2.jpg/-crop-342-184-246px-Use-Google-Step-31-Version-2.jpg.webp' },
-  { name: 'trwkbc', url: 'https://media.licdn.com/dms/image/C4D12AQHbVR_yBPCqOQ/article-cover_image-shrink_600_2000/0/1609347993048?e=2147483647&v=beta&t=q7QCA7TVpcDyTAoA6od6h1pyMrNTAwnCbirCW4Y7ulk' },
-  { name: 'sayhello', url: 'https://media.istockphoto.com/id/1143353612/photo/serious-young-caucasian-woman-showing-stop-gesture-with-her-hand.jpg?s=1024x1024&w=is&k=20&c=7oO8cT5sIxP9j7sEy9UzVSx0AW5uioMWclQKEk4B4dk=' },
-  { name: 'tomms', url: 'https://edu.google.com/coursebuilder/courses/pswg/1.2/assets/notes/Lesson4.1/images/image06.png' }
+  { name: 'Country trieste', url: './NR1.png' },
+  { name: 'descendeth petionT', url: './NR2.png' },
+  { name: 'parnitt tumbling,', url: './NR3.png' },
+  { name: 'seiza Ullrich.', url: './NR4.png' },
+  { name: 'trieste mondern-day', url: './NR5.png' }
 ];
 
 generateButton.addEventListener('click', function() {
